@@ -8,7 +8,9 @@ title: Blueflame
 - Phone: **+86 19967321955**
 - E-mail: **blueflameli@foxmail.com**
 - QQ: **310645359**
-- Blog: **<https://blueflame.org.cn>**
+- Blog: 
+  -**<https://blueflame.org.cn>**
+  -**<https://blueflameli.github.io>**
 
 ## Education
 
