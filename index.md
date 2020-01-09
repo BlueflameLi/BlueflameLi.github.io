@@ -9,8 +9,8 @@ title: Blueflame
 - E-mail: **blueflameli@foxmail.com**
 - QQ: **310645359**
 - Blog: 
-  -**<https://blueflame.org.cn>**
-  -**<https://blueflameli.github.io>**
+  - **<https://blueflame.org.cn>**
+  - **<https://blueflameli.github.io>**
 
 ## Education
 
